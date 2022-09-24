@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YooRan-yty
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java
 - 📫 How to reach me Yuantianyi0831@163.com
 
 <!---
